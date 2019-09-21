@@ -77,7 +77,7 @@ export default ({ data }) => (
         <br />
         <Space />I am front-end web developer who is interested in ReactJS. My
         tech has been full-stack web developer such as NodeJS, ReactJS, MongoDB
-        and a little bit of PostgreQL.
+        and a little bit of PostgreSQL and GraphQL.
         <br />
         <Space />I write about programming and daily life activities. Check out
         my blogs and my social medias below.
