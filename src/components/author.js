@@ -76,8 +76,35 @@ export default ({ data }) => (
         Hi, I am Thanh Vo.
         <br />
         <Space />I am front-end web developer who is interested in ReactJS. My
-        tech has been full-stack web developer such as NodeJS, ReactJS, MongoDB
-        and a little bit of PostgreSQL and GraphQL.
+        tech has been full-stack web developer such as NodeJS, SASS, ReactJS,
+        Redux, Firebase, MongoDB and a little bit of PostgreSQL and GraphQL.
+        <br />
+        <Space />I have learnt web developer on Udemy and Coders.Tokyo - now is
+        CodersX. On Udemy, I took courses online like{" "}
+        <a
+          href="https://www.udemy.com/advanced-css-and-sass/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+        </a>
+        ;{" "}
+        <a
+          href="https://www.udemy.com/react-the-complete-guide-incl-redux/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          React - The Complete Guide (incl Hooks, React Router, Redux)
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://www.udemy.com/the-complete-nodejs-developer-course-2/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          The Complete Node.js Developer Course (3rd Edition)
+        </a>{" "}
+        . On CodersX, I took courses online from start course to ReactJS course
         <br />
         <Space />I write about programming and daily life activities. Check out
         my blogs and my social medias below.
@@ -87,6 +114,7 @@ export default ({ data }) => (
           className="facebook"
           href="https://www.facebook.com/thanhvo.apcs"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faFacebook} />
         </Contact>
@@ -94,6 +122,7 @@ export default ({ data }) => (
           className="twitter"
           href="https://twitter.com/_zero2005"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faTwitter} />
         </Contact>
@@ -101,6 +130,7 @@ export default ({ data }) => (
           className="github"
           href="https://github.com/yogathanh99"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faGithub} />
         </Contact>
